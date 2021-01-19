@@ -10,7 +10,7 @@ Final project for Audio Software Design I (AME262) at University of Rochester
 Aural Landscapes requires PortAudio and libsndfile to already be installed.
 To compile, run\
 
-    "make"\
+    "make"
 
 or run\
 
@@ -21,7 +21,7 @@ or run\
 If you want to see the image displayed on the screen, you'll need to install
 SDL2. Then compile with\
 
-    "make graphics"\
+    "make graphics"
 
 or\
 
