@@ -5,6 +5,10 @@ Cassius Close, cclose@u.rochester.edu
 
 Final project for Audio Software Design I (AME262) at University of Rochester
 
+<h3>Examples</h3>
+A video showing the program in action and discussing how it works is in the
+Examples/ folder.
+
 <h3>Compiling</h3>
 
 Aural Landscapes requires PortAudio and libsndfile to already be installed.
