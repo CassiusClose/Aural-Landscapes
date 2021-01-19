@@ -1,15 +1,15 @@
-<h2>Aural Landscapes</h2>
+<h1>Aural Landscapes</h1>
 <h4>An algorithmic-composition program that processes image data to generate ambient music. </h4>
 
 Cassius Close, cclose@u.rochester.edu
 
 Final project for Audio Software Design I (AME262) at University of Rochester
 
-<h3>Examples</h3>
+<h2>Examples</h2>
 A video showing the program in action and discussing how it works is in the
 Examples/ folder.
 
-<h3>Compiling</h3>
+<h2>Compiling</h2>
 
 Aural Landscapes requires PortAudio and libsndfile to already be installed.
 To compile, run
