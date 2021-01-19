@@ -1,10 +1,13 @@
-AuralLandscapes
-An algorithmic-composition project that processes image data
+<h2>Aural Landscapes</h2>
+<h4>An algorithmic-composition program that processes image data to generate ambient music. </h4>
 
 Cassius Close, cclose@u.rochester.edu
 
+Final project for Audio Software Design I (AME262) at University of Rochester
 
-AuralLandscapes requires PortAudio and libsndfile to already be installed.
+<h3>Compiling</h3>
+
+Aural Landscapes requires PortAudio and libsndfile to already be installed.
 To compile, run 
     "make"
 or run
@@ -21,10 +24,8 @@ or
     -DUSE_GRAPHIS"
 
 
-
 You may need to include -Iinclude on Windows, I'm not sure.
 
-
 I've included some example images in the resources/ folder. You can also play
-around with the provided breakpoints, etc. in that folder to change how the
-notes sound.
+around with the provided breakpoint and key files in that folder to change how the
+notes sound and what keys are selected.
